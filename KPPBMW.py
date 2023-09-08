@@ -2,7 +2,7 @@ import streamlit as st
 import numpy as np
 import matplotlib.pyplot as plt
 
-st.header("KPP BMW Peminatan C")
+st.header("KPP BMW 2023")
 st.subheader("Nayaka Dzaky Pandya")
 
 ecg1 = np.loadtxt('Data ECG.txt', dtype = 'float')
