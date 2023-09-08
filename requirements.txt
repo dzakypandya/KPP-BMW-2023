@@ -1,2 +1,4 @@
-numpy==1.21.1
-pandas==1.4.3
+streamlit
+numpy
+pandas
+matplotlib
